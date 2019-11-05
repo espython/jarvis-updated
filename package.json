@@ -24,7 +24,7 @@
     "hyper-clean": "^1.0.2",
     "is-empty": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.6.0",
+    "mongoose": "^5.7.5",
     "multer": "^1.4.1",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
